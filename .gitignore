@@ -1,0 +1,18 @@
+# dirs
+node_modules/
+.idea
+.history
+_template
+.svn
+.vscode
+dist
+data/temp/
+/_*/
+
+# files
+说明.txt
+*.html
+test.ts
+test.js
+config.json
+*.log
